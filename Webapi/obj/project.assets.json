@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Documents\\proyectoBasico\\Webproyecto\\Webproyecto.csproj",
-      "projectName": "Webproyecto",
-      "projectPath": "C:\\Users\\SENA\\Documents\\proyectoBasico\\Webproyecto\\Webproyecto.csproj",
+      "projectUniqueName": "C:\\Users\\SENA\\Documents\\proyectoBasico\\Webapi\\Webapi.csproj",
+      "projectName": "Webapi",
+      "projectPath": "C:\\Users\\SENA\\Documents\\proyectoBasico\\Webapi\\Webapi.csproj",
       "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\Documents\\proyectoBasico\\Webproyecto\\obj\\",
+      "outputPath": "C:\\Users\\SENA\\Documents\\proyectoBasico\\Webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
